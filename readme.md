@@ -21,8 +21,8 @@
 
 <!-- Action Buttons -->
 <p align="center">
-  <a href="https://www.ibrahimadams.site/scanner">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
+  <a href="https://replit.com/@uminato456/IBRAHIM-V30KE">
+    <img title="GET SESSION" src="https://img.shields.io/badge/🔑_GET_KHAOS_SESSION-000000?style=for-the-badge&logo=quantum&logoColor+red=white&color=skyblue" width="260" height="50"/>
   </a>
   
   <a href="https://www.ibrahimadams.site/Deploy">
