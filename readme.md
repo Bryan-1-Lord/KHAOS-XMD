@@ -1,4 +1,6 @@
-
+<h1 align="center"> 𝗧𝗛𝗘 𝗞𝗛𝗔𝗢𝗦 𝗠𝗨𝗟𝗧𝗜 𝗗𝗘𝗩𝗜𝗖𝗘  </h1>
+<p align="center">  
+  
 <!-- Glowing Header -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
@@ -57,9 +59,54 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+BWM+XMD+Quantum+Edition+by+Ibrahim+Adams;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+KHAOS+XMD+Edition+by+𝖎+𝖆𝖒+𝖐𝖍𝖆𝖔𝖘;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
 </h3>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
+
+#### SETUP 
+
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryanlover1/KHAOS-XMD) It***
+
+***2.`Get Session ID 2` by [`SCANING QR 2`](https://c9452bc3-a909-44d9-8d79-df37290924a1-00-1k07ddzipxbyy.spock.replit.dev/pair) OR [`PAIRING CODE 2`](https://5ff03986-29a1-4ee2-9562-32db1a78c4f8-00-2mcg4oyou65t5.janeway.replit.dev/qr)***
+
+## WE WILL BE USING  NARUTO MD PAIRING CODE FOR NOW. I WILL FIX IT LATER
+
+*-Copy The Session ID to paste it in Heroku*
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***
+
+#### DEPLOY TO HEROKU 
+**1. If You Don't Have An Account On Heroku**
+    <br>
+<p align="center"><a href="https://signup.heroku.com">
+ <img src="https://img.shields.io/badge/Create%20Account%20Now-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+**2. If You Have a Heroku Account**
+    <br>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Bryanlover1/KHAOS-XMD"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-Blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+***
+
+
+### CONTRIBUTIONS 
+-Contributions to Madara-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***
+### DEVELOPER:
+**GET In Touch with The Owner**
+- <a href="https://instagram.com/Bryant_Tech.1"><img title="Author" src="https://img.shields.io/badge/ON INSTAGRAM-gold?style=for-the-badge&logo=Instagram"></a>
+OR 
+- <a href="https://wa.me/233530729233"><img title="Author" src="https://img.shields.io/badge/ON WHATSAPP-gold?style=for-the-badge&logo=WhatsApp"></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***
+
+### TO JOIN OUR SUPPORT GROUP 
+
