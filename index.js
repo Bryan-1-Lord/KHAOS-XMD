@@ -1,8 +1,8 @@
-//  [BWM-XMD QUANTUM EDITION]                                           
+//  [KHAOS-XMD QUANTUM EDITION]                                           
 //  >> A superposition of elegant code states                           
 //  >> Collapsed into optimal execution                                
-//  >> Scripted by Sir Ibrahim Adams                                    
-//  >> Version: 8.3.5-quantum.7
+//  >> Scripted by 𝖎 𝖆𝖒 𝖐𝖍𝖆𝖔𝖘                                    
+//  >> Version: 8.3.5.7
 
 const axios = require('axios');
 const cheerio = require('cheerio');
@@ -10,7 +10,7 @@ const adams = require("./config");
 
 async function fetchINDEXUrl() {
   try {
-    const response = await axios.get(adams.BWM_XMD);
+    const response = await axios.get(adams.KHAOS_XMD);
     const $ = cheerio.load(response.data);
 
     const targetElement = $('a:contains("INDEX")');
