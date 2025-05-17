@@ -10,7 +10,7 @@ const adams = require(__dirname + "/../config");
 
 async function fetchMENUUrl() {
   try {
-    const response = await axios.get(adams.BWM_XMD);
+    const response = await axios.get(adams.KHAOS_XMD);
     const $ = cheerio.load(response.data);
 
     const targetElement = $('a:contains("MENU")');
