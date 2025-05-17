@@ -1,5 +1,5 @@
 {
-  "name": "Bwmxmd",
+  "name": "KHAOSXMD",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -15,12 +15,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "bmwxmd",
-    "quantum",
+    "KHAOSXMD",
+    "KHAOS",
     "whatsapp-bot",
-    "Ibrahim-Adams"
+    "𝖎 𝖆𝖒 𝖐𝖍𝖆𝖔𝖘"
   ],
-  "author": "Ibrahim Adams",
+  "author": "𝖎 𝖆𝖒 𝖐𝖍𝖆𝖔𝖘",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
