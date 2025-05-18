@@ -110,3 +110,22 @@ OR
 
 ### TO JOIN OUR SUPPORT GROUP 
 
+
+*CLICK THIS 👇 BUTTON* <p align="centre">
+  <a href="https://chat.whatsapp.com/GKLnLf1tBP5DyyzsgclPac">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+  
+
+   
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### TO JOIN OUR WHATSAPP CHANNEL 
+
+*CLICK THIS 👇 BUTTON* <p align="centre">
+  <a href="https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L">
+   <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+
+   
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***
