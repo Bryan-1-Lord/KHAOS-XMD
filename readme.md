@@ -70,9 +70,9 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryanlover1/KHAOS-XMD) It***
 
-***2.`Get Session ID 2` by [`SCANING QR 2`](https://c9452bc3-a909-44d9-8d79-df37290924a1-00-1k07ddzipxbyy.spock.replit.dev/pair) OR [`PAIRING CODE 2`](https://suhail-md-vtsf.onrender.com/code)***
+***2.`Get Session ID 2` by [`SCANING QR 2`](https://suhail-md-vtsf.onrender.com/scan) OR [`PAIRING CODE 2`](https://suhail-md-vtsf.onrender.com/code)***
 
-## WE WILL BE USING  NARUTO MD PAIRING CODE FOR NOW. I WILL FIX IT LATER
+## WE WILL BE USING  SUHAIL MD PAIRING CODE FOR NOW. I WILL FIX IT LATER
 
 *-Copy The Session ID to paste it in Heroku*
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
