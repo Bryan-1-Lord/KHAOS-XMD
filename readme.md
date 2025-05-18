@@ -70,7 +70,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Bryanlover1/KHAOS-XMD) It***
 
-***2.`Get Session ID 2` by [`SCANING QR 2`](https://c9452bc3-a909-44d9-8d79-df37290924a1-00-1k07ddzipxbyy.spock.replit.dev/pair) OR [`PAIRING CODE 2`](https://5ff03986-29a1-4ee2-9562-32db1a78c4f8-00-2mcg4oyou65t5.janeway.replit.dev/qr)***
+***2.`Get Session ID 2` by [`SCANING QR 2`](https://c9452bc3-a909-44d9-8d79-df37290924a1-00-1k07ddzipxbyy.spock.replit.dev/pair) OR [`PAIRING CODE 2`](https://suhail-md-vtsf.onrender.com/code)***
 
 ## WE WILL BE USING  NARUTO MD PAIRING CODE FOR NOW. I WILL FIX IT LATER
 
