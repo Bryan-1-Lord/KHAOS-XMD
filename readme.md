@@ -27,7 +27,7 @@
     <img title="GET SESSION" src="https://img.shields.io/badge/🔑_GET_KHAOS_SESSION-000000?style=for-the-badge&logo=quantum&logoColor+red=white&color=skyblue" width="260" height="50"/>
   </a>
   
-  <a href="https://www.ibrahimadams.site/Deploy">
+  </a>
     <img title="DEPLOY KHAOS BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
